@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Greedy
@@ -32,4 +33,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0283-move-zeroes](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
