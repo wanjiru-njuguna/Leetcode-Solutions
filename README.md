@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Euclidean Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
