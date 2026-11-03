@@ -26,11 +26,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0605-can-place-flowers](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0605-can-place-flowers](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 ## Longest Increasing Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
