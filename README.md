@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0283-move-zeroes](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0334-increasing-triplet-subsequence](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/0605-can-place-flowers/) | Easy |
 ## Longest Increasing Subsequence
@@ -40,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0283-move-zeroes](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/0392-is-subsequence/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/wanjiru-njuguna/Leetcode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
